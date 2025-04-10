@@ -137,9 +137,9 @@
       lineWidth="3"
       textPosition="1">
     <bounds
-        x="48"
+        x="35"
         y="264"
-        width="120"
+        width="146"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
