@@ -167,7 +167,7 @@
     <bounds
         x="409"
         y="264"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -448,5 +448,29 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-865189ba2f6243e39da9ef4004138553.xml#id-865189ba2f6243e39da9ef4004138553"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-070ad67cdcd040c78b7b5f5e72f7e4e6">
+    <bounds
+        x="409"
+        y="342"
+        width="132"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-a43bd89a16864efab98623b86241ceb2.xml#id-a43bd89a16864efab98623b86241ceb2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2e86a06096aa4a389d30658483d1ac54">
+    <bounds
+        x="409"
+        y="423"
+        width="132"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f40e7ff0f1d24ccfac435cc46aa3ae62.xml#id-f40e7ff0f1d24ccfac435cc46aa3ae62"/>
   </children>
 </archimate:ArchimateDiagramModel>
