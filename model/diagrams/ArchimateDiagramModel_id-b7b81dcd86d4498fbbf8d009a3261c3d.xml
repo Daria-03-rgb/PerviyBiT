@@ -393,10 +393,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-522bfd95b2f2461b89bd37a3f80ff1df">
     <bounds
-        x="576"
-        y="336"
-        width="145"
-        height="85"/>
+        x="570"
+        y="339"
+        width="157"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-13ac1fb400b64f8792447ec0e73f9274.xml#id-13ac1fb400b64f8792447ec0e73f9274"/>
