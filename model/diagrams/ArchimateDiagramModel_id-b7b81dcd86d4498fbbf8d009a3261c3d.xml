@@ -69,7 +69,7 @@
           href="AssociationRelationship_id-b90b81536c8243718f18b7cc7afecafe.xml#id-b90b81536c8243718f18b7cc7afecafe"/>
     </sourceConnections>
     <bounds
-        x="576"
+        x="504"
         y="12"
         width="157"
         height="49"/>
@@ -85,8 +85,8 @@
       fillColor="#ffffff"
       textPosition="1">
     <bounds
-        x="768"
-        y="168"
+        x="726"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
@@ -194,9 +194,9 @@
       id="id-82f988aff6dc41c9be7df484b5df22f5"
       fillColor="#ffffff">
     <bounds
-        x="35"
+        x="32"
         y="420"
-        width="146"
+        width="151"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -207,9 +207,9 @@
       id="id-a488e8ac39d2417a83f23a412a5ac430"
       fillColor="#ffffff">
     <bounds
-        x="35"
-        y="492"
-        width="149"
+        x="29"
+        y="486"
+        width="158"
         height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -324,9 +324,9 @@
       id="id-5617bd866a004290962556827e6a7593"
       fillColor="#ffffff">
     <bounds
-        x="35"
+        x="23"
         y="924"
-        width="151"
+        width="170"
         height="85"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -337,10 +337,10 @@
       id="id-0fc5a096b72141bcbcfd564c4a5b3402"
       fillColor="#ffffff">
     <bounds
-        x="210"
+        x="216"
         y="924"
         width="145"
-        height="73"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-2b15e827f83d4f50923a92f38b2b7226.xml#id-2b15e827f83d4f50923a92f38b2b7226"/>
@@ -352,7 +352,7 @@
     <bounds
         x="372"
         y="924"
-        width="157"
+        width="169"
         height="121"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -389,9 +389,9 @@
       id="id-b5c86ff8393b49e79d4d4892f18f024f"
       fillColor="#ffffff">
     <bounds
-        x="576"
+        x="570"
         y="504"
-        width="145"
+        width="157"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -415,9 +415,9 @@
       id="id-070ad67cdcd040c78b7b5f5e72f7e4e6"
       fillColor="#ffffff">
     <bounds
-        x="409"
-        y="342"
-        width="132"
+        x="403"
+        y="339"
+        width="144"
         height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -428,9 +428,9 @@
       id="id-2e86a06096aa4a389d30658483d1ac54"
       fillColor="#ffffff">
     <bounds
-        x="409"
+        x="406"
         y="423"
-        width="132"
+        width="138"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -508,10 +508,10 @@
       id="id-8ee3f6f27e8f4a64b1e2afd374ed0db9"
       fillColor="#ffffff">
     <bounds
-        x="756"
+        x="742"
         y="648"
-        width="159"
-        height="73"/>
+        width="181"
+        height="97"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-8d2ec6d83af64caca902626daadf19b8.xml#id-8d2ec6d83af64caca902626daadf19b8"/>
@@ -584,7 +584,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-938ceb38c7644b3a99e8be204476ee21"
-      fillColor="#ffffff">
+      lineWidth="3"
+      fillColor="#ffffff"
+      textPosition="1">
     <bounds
         x="936"
         y="264"
@@ -599,9 +601,9 @@
       id="id-8dbd3dd2416b4ca680ac049812deaac0"
       fillColor="#ffffff">
     <bounds
-        x="936"
+        x="930"
         y="339"
-        width="133"
+        width="145"
         height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -615,7 +617,7 @@
         x="936"
         y="433"
         width="133"
-        height="42"/>
+        height="51"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-70db62aa6e88465798e5a85512e850a1.xml#id-70db62aa6e88465798e5a85512e850a1"/>
@@ -652,9 +654,9 @@
       fillColor="#ffffff">
     <bounds
         x="1104"
-        y="318"
+        y="312"
         width="193"
-        height="49"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-688ac821d8984a7586da8ceb0a13f060.xml#id-688ac821d8984a7586da8ceb0a13f060"/>
