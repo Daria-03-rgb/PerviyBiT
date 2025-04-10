@@ -69,7 +69,7 @@
           href="AssociationRelationship_id-b90b81536c8243718f18b7cc7afecafe.xml#id-b90b81536c8243718f18b7cc7afecafe"/>
     </sourceConnections>
     <bounds
-        x="504"
+        x="576"
         y="12"
         width="157"
         height="49"/>
@@ -85,8 +85,8 @@
       fillColor="#ffffff"
       textPosition="1">
     <bounds
-        x="684"
-        y="120"
+        x="768"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -337,7 +337,7 @@
       id="id-0fc5a096b72141bcbcfd564c4a5b3402"
       fillColor="#ffffff">
     <bounds
-        x="216"
+        x="210"
         y="924"
         width="145"
         height="73"/>
